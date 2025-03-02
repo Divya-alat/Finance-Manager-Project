@@ -1,4 +1,4 @@
-const userModel = require('../models/userMode')
+const userModel = require('../models/userModel')
 
 //login callback
 const loginController = async (req, res) => {

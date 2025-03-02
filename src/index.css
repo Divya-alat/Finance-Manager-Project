@@ -2,4 +2,18 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  }
+
+.content{
+  height: 80vh;
 }
+
+.register-page{
+  display: flex;
+  flex-direction: center;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+  background-color: aliceblue;
+}
+

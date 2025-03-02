@@ -10,14 +10,14 @@ const Header = () => {
       <span className="navbar-toggler-icon" />
     </button>
     <div className="collapse navbar-collapse" id="navbarTogglerDemo01">
-      <Link to="/" className="navbar-brand" >Finance Manage</Link>
+      <Link to="/" className="navbar-brand" >Finance Manager</Link>
       <ul className="navbar-nav ms-auto mb-2 mb-lg-0">
         <li className="nav-item">
           <Link 
           to="/user" 
           className="nav-link active" 
           aria-current="page" 
-          >Home</Link>
+          >User</Link>
         </li>
       </ul>
     </div>
